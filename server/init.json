@@ -1,0 +1,90 @@
+[
+  {
+    "type":"User",
+    "username":"llc",
+    "passwd":"123456",
+    "istrust":"true"
+  },
+  
+  {
+    "type":"Daily",
+    "dailyTitle":"Time after Time",
+    "dailyBody":"",
+    "dailyTime":"2013-04-06",
+    "dailyLike":{
+      "count":10,
+      "userList":[
+        {
+          "username":"llc" 
+        }
+      ]
+    },
+    "dailyComment":{
+      "count":1,
+      "userList":[{
+        "username":"llc",
+        "content":"good",
+        "commentTime":"2013-04-06"
+      }
+      ]
+    }
+  },
+
+  {
+    "type":"Mood",
+    "moodTitle":"Time after Time",
+    "moodBody":"",
+    "moodTime":"2013-04-06",
+    "moodLike":{
+      "count":1,
+      "userList":[
+        {
+          "username":"llc"
+        }
+      ]
+    },
+    "moodComment":{
+      "count":1,
+      "userList":[{
+        "username":"llc",
+        "content":"good",
+        "commentTime":"2013-04-06"
+      }
+      ]
+    }
+  },
+
+  {
+    "type":"Leavewords",
+    "username":"ll",
+    "content":"believe you",
+    "leavewordsTime":"2014-04-06",
+    "replay":[{
+      "username":"llc",
+      "content":"thank you",
+      "replayTime":"2014-04-07"
+      }
+    ]
+  },
+
+  {
+    "type":"Book",
+    "bookName":"摆渡人",
+    "author":"12",
+    "discript":"",
+    "bookUrl":"",
+    "bookImgUrl":""
+  },
+  {
+    "type":"Music",
+    "musicName":"夙",
+    "singerName":"HITA",
+    "discript":"",
+    "musicUrl":"",
+    "musicImgUrl":""
+  }
+]
+
+
+
+
